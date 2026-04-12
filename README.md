@@ -1,10 +1,10 @@
 <!-- Optional Banner - Replace with your own logo or banner image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42c9a6d6-1e8a-4d3b-8e7d-f5c9a0d8b3e4" alt="Buge Studio Banner" width="100%">
+  <img src="[https://github.com/user-attachments/assets/42c9a6d6-1e8a-4d3b-8e7d-f5c9a0d8b3e4](https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png)" alt="Buge Studio" width="100%">
 </p>
 
 <h1 align="center">
-  🐞 Buge Studio
+  Buge Studio
 </h1>
 
 <p align="center">
