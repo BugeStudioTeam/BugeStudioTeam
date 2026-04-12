@@ -1,6 +1,6 @@
 <!-- Optional Banner - Replace with your own logo or banner image -->
 <p align="center">
-  <img src="[https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png]" alt="Buge Studio" width="100%">
+  <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png" alt="Buge Studio" width="100%">
 </p>
 
 <h1 align="center">
