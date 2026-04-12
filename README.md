@@ -41,22 +41,11 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | Powerful Android app & permission management tool. Requires Shizuku. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**Buge App Locker**](https://github.com/BugeStudioTeam/Buge-App-Locker) | Material Design 3 app locker using Accessibility service to protect your privacy. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | Material Design 3 file manager for Android to manage your storage easily. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-
-> Plus more internal projects like **Buge Box** — continuously in development.
-
----
-
-## 📊 Development Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Organization Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&hide=html,css" alt="Top Languages" width="40%" />
-</p>
+| Project | Description |
+| :--- | :--- |
+| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | Powerful Android app & permission management tool. Requires Shizuku. |
+| [**Buge App Locker**](https://github.com/BugeStudioTeam/Buge-App-Locker) | Material Design 3 app locker using Accessibility service to protect your privacy. |
+| [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | Material Design 3 file manager for Android to manage your storage easily. | 
 
 ---
 
@@ -70,6 +59,6 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 <p align="center">
   <sub>
-    © 2026 Buge Studio · Simple · Powerful · Open Source
+    © 2026 Buge Studio
   </sub>
 </p>
