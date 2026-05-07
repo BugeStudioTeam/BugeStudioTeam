@@ -40,6 +40,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 | Project | Description |
 | :--- | :--- |
 | [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | Powerful Android app & permission management tool. Requires Shizuku. |
+| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | AI-powered CLI tool creates files/folders from natural language across all platforms. | 
 | [**Buge App Locker**](https://github.com/BugeStudioTeam/Buge-App-Locker) | Material Design 3 app locker using Accessibility service to protect your privacy. |
 | [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | Material Design 3 file manager for Android to manage your storage easily. | 
 
