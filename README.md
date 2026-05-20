@@ -47,16 +47,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 ## 📊 Organization Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/org?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=26A5E4&text_color=8b949e" alt="BugeStudioTeam Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=donut&theme=transparent&hide_border=true&title_color=4285F4&text_color=8b949e" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=0d1117&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/stars?username=BugeStudioTeam&theme=transparent&hide_border=true&title_color=4285F4&icon_color=26A5E4&text_color=8b949e" width="100%" alt="Total Stars History Graph" />
 </p>
 
 ---
