@@ -48,9 +48,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 </p>
 
 <p align="center">
-
-    [![GitHub Streak](https://streak-stats.demolab.com?user=BugeStudioTeam&locale=en)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=BugeStudioTeam&locale=en)](https://git.io/streak-stats)
 </p>
 
 ---
