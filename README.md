@@ -48,7 +48,9 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=BugeStudioTeam&locale=en)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=BugeStudioTeam&locale=en" alt="GitHub Streak">
+  </a>
 </p>
 
 ---
