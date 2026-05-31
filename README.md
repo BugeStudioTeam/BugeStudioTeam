@@ -47,7 +47,11 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=0d1117&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BugeStudioTeam)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BugeStudioTeam&locale=en)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
