@@ -47,7 +47,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=0d1117&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/BugeStudioTeam?template=classic&base=header,activity&activity=1&activity.limit=5&config.timezone=Asia%2FShanghai)
+[![BugeStudioTeam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
