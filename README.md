@@ -47,7 +47,11 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=0d1117&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=BugeStudioTeam&theme=flat&column=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BugeStudioTeam&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BugeStudioTeam&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BugeStudioTeam&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BugeStudioTeam&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BugeStudioTeam&theme=github)
 
 ---
 
