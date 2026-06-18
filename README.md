@@ -59,7 +59,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 -   📧 **Open Source**: Submit feedback or contribute via [GitHub Issues](https://github.com/BugeStudioTeam)
 -   💬 **Telegram Channel**: [https://t.me/bugestudio](https://t.me/bugestudio)
--   🌐 **Official Website**: [https://bugestudioteam.github.io](https://bugestudioteam.github.io)
+-   🌐 **Official Website**: [https://bugestudio.website](https://bugestudioteam.github.io)
 
 ---
 
