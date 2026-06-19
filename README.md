@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Thinking what to do, then creating software that makes a difference.</strong><br />
-  No bloat, no distractions. Fully open source, supporting Android & Windows.
+  No bloat, no distractions. Fully open source, supporting Android, Linux & Windows.
 </p>
 
 <p align="center">
