@@ -53,6 +53,14 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BugeStudioTeam&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BugeStudioTeam&theme=github)
 
+<div align="center">
+
+[![Maneesha's GitHub stats](https://github-readme-stats-nine-ruddy-47.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/BugeStudioTeam)
+[![Top Languages](https://github-readme-stats-nine-ruddy-47.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true)](https://github.com/BugeStudioTeam)
+
+</div>
+
+
 ---
 
 ## 📫 Connect With Us
