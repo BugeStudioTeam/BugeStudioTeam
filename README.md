@@ -21,6 +21,11 @@
   <a href="https://bugestudioteam.github.io">
     <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=BugeStudioTeam&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
+  
 </p>
 
 ---
