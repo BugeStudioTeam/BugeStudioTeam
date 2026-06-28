@@ -32,7 +32,7 @@
 
 ## ✨ Our Philosophy
 
-> **No bloat, no distractions. Fully open source.** > Clean, powerful, and transparent software for Android & Windows users.
+> **No bloat, no distractions. Fully open source.** > Clean, powerful, and transparent software for Android, Linux & Windows users.
 
 We believe software should be **simple, powerful, and transparent**. Every tool is built to solve real problems without unnecessary features.
 
