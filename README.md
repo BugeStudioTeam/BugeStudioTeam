@@ -28,8 +28,6 @@
   
 </p>
 
----
-
 ## ✨ Our Philosophy
 
 > **No bloat, no distractions. Fully open source.** > Clean, powerful, and transparent software for Android, Linux & Windows users.
