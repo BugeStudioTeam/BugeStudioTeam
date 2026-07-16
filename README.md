@@ -49,7 +49,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=0d1117&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=fffffe&color=4285F4&line=26A5E4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br /><br />
 
@@ -71,7 +71,6 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 <!-- GitHub Stats -->
 <img src="https://github-stats-extended.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
 
 </div>
 
