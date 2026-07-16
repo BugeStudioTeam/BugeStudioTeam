@@ -72,6 +72,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats-nine-ruddy-47.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-stats-nine-ruddy-47.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugeStudioTeam)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
