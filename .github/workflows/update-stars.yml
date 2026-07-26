@@ -17,11 +17,29 @@ jobs:
 
       - name: Fetch Stars and Update README
         run: |
-          BUGE_STARS=$(curl -s https://api.github.com/repos/BugeStudioTeam/Buge-App-Manager | jq '.stargazers_count')
-          ZYNOX_STARS=$(curl -s https://api.github.com/repos/BugeStudioTeam/Zynox | jq '.stargazers_count')
+          python3 -c "
+          import urllib.request
+          import json
+          import re
 
-          sed -i -E "s/()[^<]*()/\1$BUGE_STARS\2/g" README.md
-          sed -i -E "s/()[^<]*()/\1$ZYNOX_STARS\2/g" README.md
+          def get_stars(repo):
+              req = urllib.request.Request(f'https://api.github.com/repos/{repo}', headers={'User-Agent': 'Mozilla/5.0'})
+              with urllib.request.urlopen(req) as resp:
+                  data = json.loads(resp.read().decode())
+                  return data.get('stargazers_count', 0)
+
+          buge_stars = get_stars('BugeStudioTeam/Buge-App-Manager')
+          zynox_stars = get_stars('BugeStudioTeam/Zynox')
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          content = re.sub(r'.*?', f'{buge_stars}', content)
+          content = re.sub(r'.*?', f'{zynox_stars}', content)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          "
 
       - name: Commit and Push changes
         run: |
