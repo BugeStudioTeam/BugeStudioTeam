@@ -38,10 +38,11 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ## 🚀 Featured Projects
 
-| Project | Stars/Downloads | Description | Tech Stack |
+| Project | Stars | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | <img src="https://m3-markdown-badges.vercel.app/stars/1/2/BugeStudioTeam/Buge-App-Manager" alt="Stars Badge"/> | Powerful Android app & permission management tool. Requires Shizuku. | `Kotlin` `Shizuku` `Android` |
-| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | <img src="https://m3-markdown-badges.vercel.app/stars/1/2/BugeStudioTeam/Zynox" alt="Stars Badge"/> | AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
+| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 0| Powerful Android app & permission management tool. Requires Shizuku. | `Kotlin` `Shizuku` `Android` |
+| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | 0| AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
+
 ---
 
 ## 📊 Organization Stats & Activity
