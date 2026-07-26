@@ -20,25 +20,33 @@ jobs:
           python3 -c "
           import urllib.request
           import json
-          import re
 
           def get_stars(repo):
               req = urllib.request.Request(f'https://api.github.com/repos/{repo}', headers={'User-Agent': 'Mozilla/5.0'})
               with urllib.request.urlopen(req) as resp:
                   data = json.loads(resp.read().decode())
-                  return data.get('stargazers_count', 0)
+                  return str(data.get('stargazers_count', 0))
 
           buge_stars = get_stars('BugeStudioTeam/Buge-App-Manager')
           zynox_stars = get_stars('BugeStudioTeam/Zynox')
 
           with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
+              lines = f.readlines()
 
-          content = re.sub(r'.*?', f'{buge_stars}', content)
-          content = re.sub(r'.*?', f'{zynox_stars}', content)
+          new_lines = []
+          for line in lines:
+              if 'Buge-App-Manager' in line and '|' in line:
+                  parts = line.split('|')
+                  parts[2] = f' {buge_stars} '
+                  line = '|'.join(parts)
+              elif 'Zynox' in line and '|' in line:
+                  parts = line.split('|')
+                  parts[2] = f' {zynox_stars} '
+                  line = '|'.join(parts)
+              new_lines.append(line)
 
           with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(content)
+              f.writelines(new_lines)
           "
 
       - name: Commit and Push changes
