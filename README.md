@@ -40,8 +40,8 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 | Project | Stars | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | [BUGE_STARS] | Powerful Android app & permission management tool. Requires Shizuku. | `Kotlin` `Shizuku` `Android` |
-| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | [ZYNOX_STARS] | AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
+| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 130 | Powerful Android app & permission management tool. Requires Shizuku. | `Kotlin` `Shizuku` `Android` |
+| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | 4 | AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
 
 ---
 
