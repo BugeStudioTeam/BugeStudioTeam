@@ -58,7 +58,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ## 📫 Connect With Us
 
--   📧 **Open Source**: Submit feedback or contribute via E-mail (CreepyNightmares@proton.me), (pCreepyNightmares@gmail.com), (buge@bugestudio.website)
+-   📧 **Open Source**: Submit feedback or contribute via E-mail (CreepyNightmares@proton.me), (buge@bugestudio.website), (pCreepyNightmares@gmail.com)
 -   💬 **Telegram Channel**: [https://t.me/bugestudio](https://t.me/bugestudio)
 -   🌐 **Official Website**: [https://bugestudio.website](https://bugestudioteam.github.io)
 
