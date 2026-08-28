@@ -52,7 +52,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 </div>
 
-[View our contribution history](https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/CONTRIBUTE.md)
+[View our Contribution History](https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/CONTRIBUTE.md)
 
 ---
 
