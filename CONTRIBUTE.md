@@ -2,9 +2,6 @@
 
 **Contribution History**
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugeStudioTeam&bg_color=fffffe&color=4285F4&line=26A5E4&point=2266AA&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
 <br /><br />
 
 <!-- Summary Cards Row 1 -->
