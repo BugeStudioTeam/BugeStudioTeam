@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png" alt="Buge Studio" width="25%">
+  <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png" alt="Buge Studio" width="100%">
 </p>
 
 <h1 align="center">
