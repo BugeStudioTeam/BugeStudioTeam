@@ -2,9 +2,9 @@
   <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/icon.png" alt="Buge Studio" width="75%">
 </p>
 
-<h1 align="center">
-  Buge Studio
-</h1>
+<p align="center">
+  <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/BugeStudio.svg">
+</p>
 
 <p align="center">
   <strong>Thinking what to do, then creating software that makes a difference.</strong><br />
