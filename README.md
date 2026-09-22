@@ -36,7 +36,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/projects.svg" alt="Projects" width="24"/> Featured Projects
 
 | Project | Stars | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
