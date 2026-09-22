@@ -51,8 +51,10 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ## <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/activity.svg" alt="Organization Stats & Activity" width="24"/> Organization Stats & Activity
 
-<!-- GitHub Stats -->
-<img src="https://github-stats-extended.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
+<p align="center">
+    <!-- GitHub Stats -->
+    <img src="https://github-stats-extended.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
+</p>
 
 </div>
 
