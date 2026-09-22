@@ -54,11 +54,11 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 <p align="center">
     <!-- GitHub Stats -->
     <img src="https://github-stats-extended.vercel.app/api?username=BugeStudioTeam&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BugeStudioTeam&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
+    
+    [View our Contribution History](https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/CONTRIBUTE.md)
 </p>
 
 </div>
-
-[View our Contribution History](https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/CONTRIBUTE.md)
 
 ---
 
