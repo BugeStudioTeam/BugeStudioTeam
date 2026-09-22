@@ -28,7 +28,7 @@
   
 </p>
 
-## ✨ Our Philosophy
+## <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/philosophy.svg" alt="Philosophy"> Our Philosophy
 
 > **No bloat, no distractions. Fully open source.** > Clean, powerful, and transparent software for Android, Linux & Windows users.
 
