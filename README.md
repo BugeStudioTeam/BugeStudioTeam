@@ -60,7 +60,7 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 ---
 
-## 📫 Connect With Us
+## <img src="https://github.com/BugeStudioTeam/BugeStudioTeam/blob/main/contact.svg" alt="Contact" width="24"/> Connect With Us
 
 -   📧 **Open Source**: Submit feedback or contribute via E-mail (CreepyNightmares@proton.me), (buge@bugestudio.website), (pCreepyNightmares@gmail.com)
 -   💬 **Telegram Channel**: [https://t.me/bugestudio](https://t.me/bugestudio)
