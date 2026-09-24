@@ -40,8 +40,8 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 | Project | Stars | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 260 | Powerful Android app & permission management tool. Requires Shizuku or ROOT. | `Kotlin` `Shizuku` `Android` |
-| [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | 20 | Buge Files is a modern Android file manager built with Material Design 3 Expressive. | `Kotlin` `Files` `Android` |
+| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 261 | Powerful Android app & permission management tool. Requires Shizuku or ROOT. | `Kotlin` `Shizuku` `Android` |
+| [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | 21 | Buge Files is a modern Android file manager built with Material Design 3 Expressive. | `Kotlin` `Files` `Android` |
 | [**Buge Player**](https://github.com/BugeStudioTeam/Buge-Player) | 11 | Buge Player is a privacy-first Android media player with Material Design 3. | `Kotlin` `MediaPlayer` `Android` |
 | [**Buge Calculator**](https://github.com/BugeStudioTeam/Buge-Calculator) | 10 | Buge Calculator is a powerful, privacy first Android scientific calculator. | `Kotlin` `Calculator` `Android` |
 | [**Buge Store**](https://github.com/BugeStudioTeam/Buge-Store) | 14 | Buge Store Android client is a modern Android app catalogue built with Jetpack Compose and Material Design 3 Expressive. | `Kotlin` `Store` `Android` |
