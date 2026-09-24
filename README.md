@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Thinking what to do, then creating software that makes a difference.</strong><br />
+  <strong>Thinking what to do, then creating softwares that make differences.</strong><br />
   No bloat, no distractions. Fully open source, supporting Android, Linux & Windows.
 </p>
 
