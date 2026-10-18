@@ -1,6 +1,6 @@
 <div align="center">
 
-**Contribution History**
+**Our Contribution History**
 
 <br /><br />
 
