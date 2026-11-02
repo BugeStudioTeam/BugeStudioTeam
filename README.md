@@ -40,12 +40,12 @@ We believe software should be **simple, powerful, and transparent**. Every tool 
 
 | Project | Stars | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 319 | Powerful Android app & permission management tool. Requires Shizuku, Dhizuku or ROOT. | `Kotlin` `Tool` `Android` |
+| [**Buge App Manager**](https://github.com/BugeStudioTeam/Buge-App-Manager) | 320 | Powerful Android app & permission management tool. Requires Shizuku, Dhizuku or ROOT. | `Kotlin` `Tool` `Android` |
 | [**Buge Files**](https://github.com/BugeStudioTeam/Buge-Files) | 40 | Buge Files is a modern Android file manager built with Material Design 3 Expressive. | `Kotlin` `Files` `Android` |
 | [**Buge Player**](https://github.com/BugeStudioTeam/Buge-Player) | 17 | Buge Player is a privacy-first Android media player with Material Design 3. | `Kotlin` `MediaPlayer` `Android` |
 | [**Buge Calculator**](https://github.com/BugeStudioTeam/Buge-Calculator) | 14 | Buge Calculator is a powerful, privacy first Android scientific calculator. | `Kotlin` `Calculator` `Android` |
 | [**Buge Store**](https://github.com/BugeStudioTeam/Buge-Store) | 19 | Buge Store Android client is a modern Android app catalogue built with Jetpack Compose and Material Design 3 Expressive. | `Kotlin` `Store` `Android` |
-| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | 9 | AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
+| [**Zynox**](https://github.com/BugeStudioTeam/Zynox) | 10 | AI-powered CLI tool creates files/folders from natural language across all platforms. | `Python` `CLI` `AI` |
 
 ---
 
